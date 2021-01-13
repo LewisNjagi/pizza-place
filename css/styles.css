@@ -265,3 +265,24 @@ html {
 .fee2 {
     display: none;
 }
+.myrow4 {
+    /* border: solid red; */
+    margin-top: 0px;
+}
+
+.mycol41 img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.mycol41 p {
+    top: 500px;
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 50px;
+    font-family: 'Handlee', cursive;
+    font-size: 30px;
+}
