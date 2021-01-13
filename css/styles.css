@@ -151,3 +151,117 @@ html {
     text-decoration: none;
     cursor: pointer;
 }
+.mycol31 {
+    /* border: solid yellow; */
+    height: 1200px;
+    width: 100px;
+    margin-top: -5px;
+}
+
+.mycol32 {
+    /* border: solid yellow; */
+    height: 1200px;
+    width: 100px;
+    margin-top: -5px;
+}
+.card {
+    border: none
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.mycard21 {
+    margin-top: 128px;
+}
+
+.mycard31 {
+    margin-top: 448px;
+}
+
+.card-title {
+    margin-top: -20px;
+    margin-left: -5px;
+    font-size: 30px;
+    font-family: 'Alfa Slab One', cursive
+}
+
+.card-text {
+    font-size: 15px;
+    margin-left: -5px;
+    margin-top: -10px;
+    font-family: 'Handlee', cursive;
+}
+
+.card-title2 {
+    margin-top: -10px;
+    margin-left: -15px;
+    font-size: 30px;
+    font-family: 'Alfa Slab One', cursive
+}
+
+.card-title3 {
+    margin-top: -30px;
+    margin-left: -15px;
+    font-size: 30px;
+    font-family: 'Alfa Slab One', cursive
+}
+
+.btn {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.order {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.milpizza {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.min {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+#remove {
+    display: none;
+}
+
+#pbutton {
+    display: none;
+}
+
+#chdel {
+    display: none;
+}
+
+#delivery {
+    display: none;
+}
+
+#dbutton {
+    display: none;
+}
+
+#teTotal {
+    display: none;
+}
+
+.fee {
+    display: none;
+    color: red;
+}
+
+.fee2 {
+    display: none;
+}
