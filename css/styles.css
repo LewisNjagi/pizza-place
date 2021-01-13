@@ -286,3 +286,18 @@ html {
     font-family: 'Handlee', cursive;
     font-size: 30px;
 }
+.myrow5 {
+    height: 100px;
+    background-color: rgb(45, 46, 40);
+}
+
+.mycol51 h6 {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.social {
+    margin-left: 400px;
+    margin-top: -15px;
+}
