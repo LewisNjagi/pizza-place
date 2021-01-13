@@ -57,3 +57,36 @@ html {
 .imagetop h1:hover {
     text-shadow: 2px 2px 50px rgb(46, 167, 189);
 }
+.myrow1 {
+    height: 350px;
+}
+.mycol1 {
+    margin-top: 20px;
+}
+.mycol1 h6 {
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Alfa Slab One', cursive;
+}
+.mycol1 p {
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Handlee', cursive;
+}
+.mycol2 img {
+    margin-left: 70px;
+}
+.stone {
+    height: auto;
+    width: 1300px !important;
+    padding-left: -50px;
+    max-height: 100%;
+    max-width: 100%;
+}
+.myrow2 {
+    height: 200px;
+}
+.menu img {
+    max-width: 100%;
+    max-height: 250px;
+}
