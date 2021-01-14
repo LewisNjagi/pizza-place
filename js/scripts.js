@@ -243,11 +243,11 @@ $("form#modal1").submit(function (event) {
         var totaldeliver = totalAmount + 100;
         if (pizzaDeliver == 1) {
             $("#teTotal").show();
-            $("p#Ttotal").prepend(totalAmount);
+            $("p#Ttotal").text(totalAmount);
         }
         if (pizzaDeliver == 0) {
             $("#teTotal").show();
-            $("p#Ttotal").prepend(totaldeliver);
+            $("p#Ttotal").text(totaldeliver);
         }
     });
 
